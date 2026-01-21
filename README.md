@@ -3,7 +3,7 @@
 A **Minecraft-inspired engineer portfolio website** built using **pure HTML & CSS**, featuring pixel-art aesthetics, block-style layouts, and a retro gaming vibe.
 
 🌍 **Live Website (GitHub Pages):**  
-https://tevil344.github.io/minecraft-portfolio/
+https://tevil344.github.io/
 
 ---
 
